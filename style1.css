@@ -1,0 +1,525 @@
+body
+{
+    background-color: rgba(231, 231, 240, 0.871);
+    padding: 0;
+    margin: 0;
+    direction: rtl;
+}
+header
+{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    background-color: #ffff;
+    outline: none;
+}
+.text1
+{
+    font-size: 15px;
+    padding: 5px;
+    color: hwb(240 51% 47% / 0.871);
+    margin: auto;
+    font-family: "Lemonada";
+    margin-right: 35px;
+}
+.text2
+{
+    font-size: 18px;
+    padding: 5px;
+    margin: auto;
+    margin-right: -20px;
+    font-family: "Lemonada";
+}
+.acc 
+{
+    background-color: #0F74DD;
+    color: white;
+    width: 100px;
+    height: 15px;
+    border-radius: 10px;
+    margin: auto;
+    padding: 8px;
+    padding-bottom: 15px;
+    margin-right: 1050px;
+}
+.acc span
+{
+    font-size: 11px;
+    font-family: "Lemonada";
+}
+.log-image
+{
+    vertical-align: middle;
+    margin-right: 10px;
+}
+/*======================================*/
+.right-coulmn
+{
+    margin: 15px;
+    border-radius: 10px;
+    background-color: white;
+    width: 280px;
+    height:790px;
+    float: right;
+}
+.content
+{
+    padding: 25px;
+}
+.content span
+{
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+hr
+{
+    margin-top: 30px;
+    width: 230px;
+}
+.product img
+{
+    vertical-align: middle;
+}
+.product
+{
+    margin-top: 55px;
+}
+.text6
+{
+    font-size: 18px;
+    padding: 5px;
+    font-family: "Lemonada";
+    color: black;
+    margin-top: -50px;
+    margin-right: 10px;
+}
+/*======================================*/
+.first-row
+{
+    height: 110px;
+    width: 1200px;
+    margin-top: 15px;
+    border-radius: 10px;
+    margin-right: -5px;
+    background-color: white;
+    float:inline-start;
+}
+.content2 h3
+{
+    font-size: 17px;
+    margin-top: 10px;
+    padding-right: 20px;
+    font-family: "Lemonada";
+}
+.content2 pre
+{
+    font-size: 12px;
+    font-weight: 600;
+    margin-top: -10px;
+    padding-right: 20px;
+    font-family: "Lemonada";
+}
+.image1
+{
+    float: left;
+    display: inline;
+    margin-top: -7px;
+}
+.content2 img
+{
+    height: 120px;
+    width: 120px;
+    margin-top: -7px;
+    margin-left: 15px;
+}
+/*======================================*/
+.second-row
+{
+    height: 90px;
+    width: 275px;
+    margin-top: 15px;
+    border-radius: 10px;
+    background-color: white;
+    float:inline-start;
+    margin-left: 25px;
+}
+.text3
+{
+    font-size: 12px;
+    font-family: "Lemonada";
+    margin-bottom: 0px;
+}
+.content1
+{
+    margin-right: 10px;
+}
+.circle-img
+{
+    float: left;
+    width: 50px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.price
+{
+    font-size: 17px;
+    float: left;
+    margin-left: -38px;
+    margin-top: 22px;  
+}
+.dotted-img
+{
+    height: 8px;
+    width: 100px;
+    margin-right: 5px;
+    margin-top: -200px;
+    padding-top: -40px;
+}
+.num1
+{
+    font-size: 6px;
+    margin-top: 0px;
+    font-family: "Lemonada";
+}
+.num2
+{
+    font-size: 6px;
+    font-family: "Lemonada";
+    margin-top: -7px;
+}
+.circle2-img
+{
+    height: 50px;
+    float: left;
+    width: 55px;
+    margin-left: 5px;
+    margin-top: -65px;
+}
+.internal-second-row
+{
+    height: 90px;
+    width: 277px;
+    margin-top: 15px;
+    border-radius: 10px;
+    background-color: #0F74DD;
+    float:inline-start;
+    margin-left: 25px;
+}
+.content1 select
+{
+    width: 50px;
+    border-radius: 10px;
+    margin-right: 60px;
+    text-align: center;
+}
+.salary
+{
+    height: 17px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.line1
+{
+    font-size: 10px;
+    font-family: "Lemonada";
+    color: white;
+    margin-right: 20px;
+    margin-top: -22px;
+}
+
+.num
+{
+    font-size: 12px;
+    font-family: "Lemonada";
+    color: white;
+    padding: 15px;
+    margin-bottom: 150px;
+}
+.trend
+{
+    width: 50px;
+    height: 40px;
+    margin-right: 100px;
+    vertical-align: middle;
+}
+.line2
+{
+    margin-top: 10px;
+}
+.text4
+{
+    font-size: 10px;
+    font-family: "Lemonada";
+    margin-bottom: 0px;
+}
+.second-row hr
+{
+    width: 170px;
+    margin-top: 0px;
+    margin-right: 0px;
+    color: #00000036;
+    margin-bottom: -25px;
+}
+.title1
+{
+    font-size: 15px;
+    margin-right: 10px;
+    margin-top: 28px;
+    margin-bottom: -5px;
+}
+.circle{
+    display: inline-block;
+    height: 5px;
+    width: 5px;
+    border-radius: 50%;
+    background-color: #80DEEA;
+}
+.text5
+{
+    font-size: 12px;
+    margin-top: -50px;
+}
+.content1 .vertical
+{
+    width: 1.5px;
+    height: 40px; 
+    border: none; 
+    background-color: hsl(240, 3%, 7%); 
+    position: absolute; 
+    margin-right: 60px;
+    margin-top: -45px;
+}
+.statistic
+{
+    height: 55px;
+    margin-right: 60px;
+    vertical-align: middle;
+
+}
+.blue
+{
+    margin-right: 80px;
+    margin-top: -35px;
+}
+/*search box and image*/
+.container
+{
+    position: absolute;
+    margin-top: 260px;
+    margin-right: 310px;
+}
+.three-row
+{
+    height: 90px;
+    width: 350px;
+    height: 50px;
+    border: 1px solid #0F74DD;
+    border-radius: 15px;
+    background-color: white;
+    display: inline-block;
+}
+.container input
+{
+    width: 320px;
+    padding: 10px;
+    margin-top: 5px;
+    margin-right: 20px;
+    border: none;
+    outline: none;
+}
+::placeholder
+{
+    font-family: "Lemonada";
+}
+.img1
+{
+    position: absolute;
+    vertical-align: middle;
+    margin-top: 13px;
+    margin-right: -337px;
+}
+.img2
+{
+    width: 25px;
+    height: 25;
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 7px;
+    border: none;
+    background-color: #ffff;
+    display: inline;
+    vertical-align: middle;
+    margin-right: 20px;
+}
+.badge span
+{
+    font-size: 15px;
+    color: #ffffff;
+    font-family: "Lemonada";
+}
+.badge
+{
+    margin-right: 605px;
+    background-color:#0F74DD;
+    padding: 16px;
+    border-radius: 10px;
+    display: inline;
+}
+.badge img
+{
+    vertical-align: middle;
+    margin-right: 10px;
+}
+    /*Four row*/
+.four-row
+{
+    height: 56px;
+    width: 1180px;
+    margin-top: 340px;
+    border-top-left-radius: 10px; 
+    border-top-right-radius: 10px;
+    background-color: white;
+    display: flex;
+}
+.text7
+{
+    font-size: 14px;
+    font-family: "Lemonada";
+    margin-right: 30px;
+    padding: 13px;
+    color: #0F74DD;
+    float: right;
+}
+.num3
+{
+    color: #ffffff;
+    background-color: #0F74DD;
+    width: 33px;
+    height: 20px;
+    border-radius: 5px;
+    margin-top: 18px;
+    font-size: 12px;
+    font-family: "Lemonada";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.four-row hr
+{
+    width: 1.5px; /* عرض الخط */
+    height: 40px; /* طول الخط */
+    border: none; /* إزالة الحدود الافتراضية */
+    background-color: #0000008A; /* لون الخط */
+    position: absolute; /* تحديد الموقع بدقة */
+    margin-right: 170px;
+    margin-top: 10px;
+}
+.five-row
+{
+    height: 56px;
+    width: 1180px;
+    display: flex;
+    background-color:#F7F8FA;
+    align-items: center;
+}
+.five-row pre
+{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Cairo";
+    text-align:center;
+    line-height: 28.11px;
+    margin-right: 25px;
+}
+.big-container
+{
+    height: 350px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    scrollbar-color: #0F74DD #f0f0f0;
+    scrollbar-width: thin;
+    width: 1180px;
+}
+
+.six-row
+{
+    height: 65px;
+    width: 1180px;
+    display: flex;
+    background-color: white;
+    border: 1px solid #ddd;
+}
+.num4
+{
+    font-family: "Cairo";
+    margin-top: 14px;
+    margin-right: 35px;
+}
+.product2
+{
+    margin-right: 80px;
+    display: flex;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+}
+.img3
+{
+    padding: 10px;
+    margin-left: 5px;
+}
+.product-name
+{
+    margin-top: 10px;
+    margin-right: 60px;
+    font-family: "cairo";
+    display: flex;
+}
+.product-code
+{
+    align-items: center;
+    display: block;
+    font-family: "cairo";
+    margin-top: 0px;
+    margin-right: 25px;
+    margin-bottom: 10px;
+}
+.product-price
+{
+    font-family: "cairo";
+    padding: 13px;
+    margin-right: 70px;
+}
+.sale-price
+{
+    font-family: "cairo";
+    padding: 13px;
+    margin-right: 125px;
+}
+.quantity
+{
+    font-family: "cairo";
+    padding: 13px;
+    margin-right: 150px;
+}
+.type
+{
+    font-family: "cairo";
+    padding: 13px;
+    margin-right:100px;
+}
+.fa-regular.fa-pen-to-square
+{
+    color: #6366F1;
+    margin-top: 20px;
+    margin-right: 35px;
+}
+.fa-regular.fa-eye
+{
+    color: #6366F1;    ;
+    margin-top: 20px;
+    margin-right: 35px;
+}
+
+
+

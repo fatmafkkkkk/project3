@@ -1,0 +1,102 @@
+body
+{
+    direction: rtl;
+    margin: 0;
+    padding: 0;
+}
+.parent
+{
+    display: inline-flex;
+}
+.left
+{
+    background: linear-gradient(90deg, #091128 49.92%, #0F74DD 87.73%, #0F74DD 87.73%);
+    width: 750px;
+    height: 710px;
+    color: white;
+    margin-right: 150px;
+}
+.text
+{
+    font-size: 45px;
+    font-family: "Jomhuria";
+    font-weight: 400;
+    text-align: center;  
+    padding-top: 30px;
+}
+.image
+{
+    width: 500px;
+    height: 350px;
+    margin-right: 70px;
+    margin-bottom: 60px;
+}
+.left img
+{
+    width: 620px;
+    height: 480px;
+}
+.right
+{
+    margin-top: 80px;
+    width: 600px;
+    height: 100%;
+    margin-right: 50px;
+}
+.text1
+{
+    font-size: 45px;
+    padding-top: 50px;
+    font-family: "Jomhuria";
+    font-weight: 400;
+    display: block;
+    margin-bottom: 10px;
+    color: #6366F1;
+}
+.text2
+{
+    font-size: 25px;
+    font-family: "Jomhuria";
+}
+.right a
+{
+    font-size: 25px;
+    color: #6366F1;
+    font-family: "Jomhuria";
+    text-decoration: none;
+}
+.input
+{
+    margin-top: 25px;
+}
+.input > input
+{
+    width: 330px;
+    height: 40px;
+    margin-top: 15px;
+    border: 1 solid;
+    border-radius: 20px;
+    padding: 10px;
+    border: 1.7px solid #6366F1;
+}
+::placeholder
+{
+    color: #6366F1;
+    font-size: 20px;
+    font-family: "Jomhuria";
+    text-align:flex;
+    justify-content: top;
+}
+.submit
+{
+    margin-top: 20px;
+    background-color: #0F74DD;
+    border-color:#0F74DD;    ;
+    width: 350px;
+    height: 60px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    font-size: 20px;
+    font-family: "Jomhuria";
+}
